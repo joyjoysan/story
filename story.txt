@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 A long time ago, cats ruled the galaxy. SKSKS atretwrtwet
+=======
+A long time ago, cats ruled the galaxy. SKSKSadfaf
+>>>>>>> solo
